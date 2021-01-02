@@ -76,3 +76,7 @@ h4 {
 	width: 30px;
 	height: 20px;
 }
+
+[contenteditable="true"] {
+	background-color: yellow;
+}
